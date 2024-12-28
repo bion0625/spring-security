@@ -1,0 +1,10 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: id
+            client-secret: secret
+  application:
+    name: ssia-ch12-ex3
